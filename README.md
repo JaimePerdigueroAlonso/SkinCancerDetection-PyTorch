@@ -41,3 +41,12 @@ If you are running this notebook in Google Colab and want to test it with your o
 1.  **Upload Images:** Upload your image files directly to the `/content/` directory in the Colab environment. You can do this by clicking the folder icon in the left sidebar, then the upload icon.
 
 2.  **Rename Files (If Necessary):** Ensure that the file names in your code match the names of the files you've uploaded.  For example, if the original code references files named `"bueno.jpg"`, `"bueno1.jpg"`, `"malo.jpg"`, and `"malo1.jpg"`, and your uploaded files have different names (e.g., `"my_skin_image1.png"`, `"test_photo.jpeg"`), you **must** change the file names in the code to reflect your actual file names.
+
+## 5.  Dataset Availability
+
+For your convenience, we have included the necessary datasets in a separate section of the GitHub repository.
+
+* **Melanoma Dataset:** The "Melanoma Skin Cancer Dataset of 10000 images" from Kaggle is provided in the `melanoma_dataset/` directory.
+* **Test Images:** The four test images (e.g., `"bueno.jpg"`, `"bueno1.jpg"`, `"malo.jpg"`, `"malo1.jpg"`) are located in the `test_images/` directory.
+
+You can use these directories directly if you prefer not to download the data within the Colab notebook. However, note that using the Kaggle download within the notebook ensures you're using the exact version of the dataset used during development.
