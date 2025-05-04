@@ -1,4 +1,4 @@
-Skin Cancer Detection Using Deep Learning
+# Skin Cancer Detection Using Deep Learning
 
 1. Introduction
 
