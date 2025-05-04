@@ -46,7 +46,7 @@ If you are running this notebook in Google Colab and want to test it with your o
 
 For your convenience, we have included the necessary datasets in a separate section of the GitHub repository.
 
-* **Melanoma Dataset:** The "Melanoma Skin Cancer Dataset of 10000 images" from Kaggle is provided in the `melanoma_dataset/` directory.
+* **Melanoma Dataset:** The "Melanoma Skin Cancer Dataset of 10000 images" from Kaggle is provided in https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images.
 * **Test Images:** The four test images (e.g., `"bueno.jpg"`, `"bueno1.jpg"`, `"malo.jpg"`, `"malo1.jpg"`) are located in the `test_images/` directory.
 
 You can use these directories directly if you prefer not to download the data within the Colab notebook. However, note that using the Kaggle download within the notebook ensures you're using the exact version of the dataset used during development.
